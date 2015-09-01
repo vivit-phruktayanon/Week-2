@@ -1,0 +1,5 @@
+C:\Users\vivit\Source\Repos\Week-22\Lab202\bin\Debug\Lab202.exe
+C:\Users\vivit\Source\Repos\Week-22\Lab202\bin\Debug\Lab202.pdb
+C:\Users\vivit\Source\Repos\Week-22\Lab202\obj\Debug\Lab202.csprojResolveAssemblyReference.cache
+C:\Users\vivit\Source\Repos\Week-22\Lab202\obj\Debug\Lab202.exe
+C:\Users\vivit\Source\Repos\Week-22\Lab202\obj\Debug\Lab202.pdb
