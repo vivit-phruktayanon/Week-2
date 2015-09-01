@@ -17,12 +17,24 @@ namespace Lab2
             get { return course; }
             set
             {
-                if (value.Length == 6 && value != CourseID)
+              int n;
+              bool isNumeric = int.TryParse(CourseID, out n);
+                if (n == 0)
                 {
-                    course = value;
+                    if (value.Length == 6 && value != CourseID)
+                    {
+                        course = value;
+                    }
+                    else
+                        Console.WriteLine("{0}: error try setting invalid CourseID!", CourseID);
                 }
-                else
+                else { 
+                
+           
                     Console.WriteLine("{0}: error try setting invalid CourseID!", CourseID);
+                
+                
+                }
             }
 
         }
